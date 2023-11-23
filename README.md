@@ -44,3 +44,11 @@ sudo apt update
 sudo apt -y upgrade
 ```
 
+## Now let's install pip
+```
+sudo apt install -y python3-pip
+```
+
+# Good reference material for setting up dev environments quickly on a new machine (or porting to cloud)
+https://www.codemag.com/Article/1811021/Docker-for-Developers
+https://www.digitalocean.com/community/tutorials/how-to-install-python-3-and-set-up-a-programming-environment-on-debian-11#step-2-setting-up-a-virtual-environment
